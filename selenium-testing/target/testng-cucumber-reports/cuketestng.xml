@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testng-results failed="0" passed="2" skipped="0" total="2">
+<suite duration-ms="25707" name="io.cucumber.core.plugin.TestNGFormatter">
+<test duration-ms="25707" name="io.cucumber.core.plugin.TestNGFormatter">
+<class name="To Test GreatOutdoors Application">
+<test-method duration-ms="11989" finished-at="2020-09-30T21:08:18.591Z" name="To Test Login and View Delivery Time Reports Function of GreatOutdoors" started-at="2020-09-30T21:08:06.463Z" status="PASS"/>
+</class>
+<class name="To Test GreatOutdoors Application">
+<test-method duration-ms="12967" finished-at="2020-09-30T21:08:31.576Z" name="To Test Register Function of GreatOutdoors" started-at="2020-09-30T21:08:18.601Z" status="PASS"/>
+</class>
+</test>
+</suite>
+</testng-results>

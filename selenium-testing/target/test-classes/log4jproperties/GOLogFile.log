@@ -1,0 +1,671 @@
+2020-09-30 21:42:25,733 - com.base_class.Library -INFO - Starting with Browser Set Up
+2020-09-30 21:42:34,580 - com.base_class.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-09-30 21:42:37,838 - com.base_class.Library -INFO - Launched the FreeCRM Application
+2020-09-30 21:42:37,839 - com.base_class.Library -INFO - browser launched
+2020-09-30 21:42:38,935 - com.base_class.Library -INFO - Browser Login Successful
+2020-09-30 21:42:40,674 - com.base_class.Library -INFO - Exiting the application and closing the browser
+2020-09-30 21:42:40,675 - com.base_class.Library -INFO - Closing browser
+2020-09-30 22:48:41,638 - com.base_class.Library -INFO - Starting with Browser Set Up
+2020-09-30 22:48:47,111 - com.base_class.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-09-30 22:48:50,347 - com.base_class.Library -INFO - Launched the GreatOutdoors Application
+2020-09-30 22:48:50,348 - com.base_class.Library -INFO - Browser Launched
+2020-09-30 22:51:15,291 - com.base_class.Library -INFO - Starting with Browser Set Up
+2020-09-30 22:51:20,230 - com.base_class.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-09-30 22:51:23,672 - com.base_class.Library -INFO - Launched the GreatOutdoors Application
+2020-09-30 22:51:23,672 - com.base_class.Library -INFO - Browser Launched
+2020-09-30 22:55:30,338 - com.base_class.Library -INFO - Starting with Browser Set Up
+2020-09-30 22:55:35,388 - com.base_class.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-09-30 22:55:38,627 - com.base_class.Library -INFO - Launched the GreatOutdoors Application
+2020-09-30 22:58:14,748 - com.base_class.Library -INFO - Starting with Browser Set Up
+2020-09-30 22:58:19,705 - com.base_class.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-09-30 22:58:23,370 - com.base_class.Library -INFO - Launched the GreatOutdoors Application
+2020-09-30 22:59:39,235 - com.base_class.Library -INFO - Starting with Browser Set Up
+2020-09-30 22:59:44,648 - com.base_class.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-09-30 22:59:47,987 - com.base_class.Library -INFO - Launched the GreatOutdoors Application
+2020-09-30 22:59:47,988 - com.base_class.Library -INFO - Browser Launched
+2020-09-30 22:59:48,492 - com.base_class.Library -INFO - Entered credentials
+2020-09-30 22:59:48,697 - com.base_class.Library -INFO - Clicked login button
+2020-09-30 22:59:49,217 - com.base_class.Library -INFO - Taken Screenshot and Title
+2020-09-30 22:59:49,952 - com.base_class.Library -INFO - Exiting the application and closing the browser
+2020-09-30 22:59:49,954 - com.base_class.Library -INFO -  Closed the Browser
+2020-09-30 23:07:09,971 - com.base_class.Library -INFO - Starting with Browser Set Up
+2020-09-30 23:07:14,901 - com.base_class.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-09-30 23:07:18,307 - com.base_class.Library -INFO - Launched the GreatOutdoors Application
+2020-09-30 23:07:18,308 - com.base_class.Library -INFO - Browser Launched
+2020-09-30 23:07:18,808 - com.base_class.Library -INFO - Entered credentials
+2020-09-30 23:07:18,990 - com.base_class.Library -INFO - Clicked login button
+2020-09-30 23:07:19,433 - com.base_class.Library -INFO - Taken Screenshot and Title
+2020-09-30 23:11:05,693 - com.base_class.Library -INFO - Starting with Browser Set Up
+2020-09-30 23:11:10,641 - com.base_class.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-09-30 23:11:13,862 - com.base_class.Library -INFO - Launched the GreatOutdoors Application
+2020-09-30 23:11:13,863 - com.base_class.Library -INFO - Browser Launched
+2020-09-30 23:11:14,391 - com.base_class.Library -INFO - Entered credentials
+2020-09-30 23:11:14,583 - com.base_class.Library -INFO - Clicked login button
+2020-09-30 23:11:15,073 - com.base_class.Library -INFO - Taken Screenshot and Title
+2020-09-30 23:11:39,696 - com.base_class.Library -INFO - Fetched Item Level Delivery Time Report
+2020-09-30 23:12:58,667 - com.base_class.Library -INFO - Starting with Browser Set Up
+2020-09-30 23:13:03,631 - com.base_class.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-09-30 23:13:06,869 - com.base_class.Library -INFO - Launched the GreatOutdoors Application
+2020-09-30 23:13:06,870 - com.base_class.Library -INFO - Browser Launched
+2020-09-30 23:13:07,341 - com.base_class.Library -INFO - Entered credentials
+2020-09-30 23:13:07,517 - com.base_class.Library -INFO - Clicked login button
+2020-09-30 23:13:08,026 - com.base_class.Library -INFO - Taken Screenshot and Title
+2020-09-30 23:14:24,521 - com.base_class.Library -INFO - Starting with Browser Set Up
+2020-09-30 23:14:29,824 - com.base_class.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-09-30 23:14:33,083 - com.base_class.Library -INFO - Launched the GreatOutdoors Application
+2020-09-30 23:14:33,083 - com.base_class.Library -INFO - Browser Launched
+2020-09-30 23:14:33,631 - com.base_class.Library -INFO - Entered credentials
+2020-09-30 23:14:33,841 - com.base_class.Library -INFO - Clicked login button
+2020-09-30 23:14:34,350 - com.base_class.Library -INFO - Taken Screenshot and Title
+2020-09-30 23:14:34,443 - com.base_class.Library -INFO - Entered Delivery Time Reports page
+2020-09-30 23:14:34,602 - com.base_class.Library -INFO - Fetched Item Level Delivery Time Report
+2020-09-30 23:21:09,618 - com.base_class.Library -INFO - Starting with Browser Set Up
+2020-09-30 23:21:14,631 - com.base_class.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-09-30 23:21:18,001 - com.base_class.Library -INFO - Launched the GreatOutdoors Application
+2020-09-30 23:21:18,002 - com.base_class.Library -INFO - Browser Launched
+2020-09-30 23:21:18,501 - com.base_class.Library -INFO - Entered credentials
+2020-09-30 23:21:18,853 - com.base_class.Library -INFO - Clicked login button
+2020-09-30 23:21:19,222 - com.base_class.Library -INFO - Taken Screenshot and Title
+2020-09-30 23:21:19,325 - com.base_class.Library -INFO - Entered Delivery Time Reports page
+2020-09-30 23:21:19,501 - com.base_class.Library -INFO - Fetched Item Level Delivery Time Report
+2020-09-30 23:21:19,749 - com.base_class.Library -INFO - Fetched Category Level Delivery Time Report
+2020-09-30 23:21:20,033 - com.base_class.Library -INFO - Fetched Outlier-Category Level Delivery Time Report
+2020-09-30 23:23:49,916 - com.base_class.Library -INFO - Starting with Browser Set Up
+2020-09-30 23:23:54,981 - com.base_class.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-09-30 23:23:58,262 - com.base_class.Library -INFO - Launched the GreatOutdoors Application
+2020-09-30 23:23:58,262 - com.base_class.Library -INFO - Browser Launched
+2020-09-30 23:23:58,716 - com.base_class.Library -INFO - Entered credentials
+2020-09-30 23:23:58,909 - com.base_class.Library -INFO - Clicked login button
+2020-09-30 23:23:59,424 - com.base_class.Library -INFO - Taken Screenshot and Title
+2020-09-30 23:23:59,518 - com.base_class.Library -INFO - Entered Delivery Time Reports page
+2020-09-30 23:23:59,678 - com.base_class.Library -INFO - Fetched Item Level Delivery Time Report
+2020-09-30 23:23:59,936 - com.base_class.Library -INFO - Fetched Category Level Delivery Time Report
+2020-09-30 23:24:00,185 - com.base_class.Library -INFO - Fetched Outlier-Category Level Delivery Time Report
+2020-09-30 23:24:00,322 - com.base_class.Library -INFO - Logged out successfully
+2020-09-30 23:24:01,172 - com.base_class.Library -INFO - Exiting the application and closing the browser
+2020-09-30 23:24:01,174 - com.base_class.Library -INFO -  Closed the Browser
+2020-09-30 23:29:22,300 - com.base_class.Library -INFO - Starting with Browser Set Up
+2020-09-30 23:29:27,281 - com.base_class.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-09-30 23:29:30,565 - com.base_class.Library -INFO - Launched the GreatOutdoors Application
+2020-09-30 23:29:30,567 - com.base_class.Library -INFO - Browser Launched
+2020-09-30 23:29:31,009 - com.base_class.Library -INFO - Entered credentials
+2020-09-30 23:29:31,179 - com.base_class.Library -INFO - Clicked login button
+2020-09-30 23:29:31,644 - com.base_class.Library -INFO - Taken Screenshot and Title
+2020-09-30 23:29:31,738 - com.base_class.Library -INFO - Entered Delivery Time Reports page
+2020-09-30 23:29:31,852 - com.base_class.Library -INFO - Fetched Item Level Delivery Time Report
+2020-09-30 23:29:32,067 - com.base_class.Library -INFO - Fetched Category Level Delivery Time Report
+2020-09-30 23:29:32,183 - com.base_class.Library -INFO - Fetched Outlier-Category Level Delivery Time Report
+2020-09-30 23:37:58,937 - com.base_class.Library -INFO - Starting with Browser Set Up
+2020-09-30 23:38:04,105 - com.base_class.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-09-30 23:38:07,439 - com.base_class.Library -INFO - Launched the GreatOutdoors Application
+2020-09-30 23:38:07,440 - com.base_class.Library -INFO - Browser Launched
+2020-09-30 23:38:07,920 - com.base_class.Library -INFO - Entered credentials
+2020-09-30 23:38:08,110 - com.base_class.Library -INFO - Clicked login button
+2020-09-30 23:38:08,557 - com.base_class.Library -INFO - Taken Screenshot and Title
+2020-09-30 23:38:08,660 - com.base_class.Library -INFO - Entered Delivery Time Reports page
+2020-09-30 23:38:08,825 - com.base_class.Library -INFO - Fetched Item Level Delivery Time Report
+2020-09-30 23:38:09,038 - com.base_class.Library -INFO - Fetched Category Level Delivery Time Report
+2020-09-30 23:38:09,178 - com.base_class.Library -INFO - Fetched Outlier-Category Level Delivery Time Report
+2020-09-30 23:39:55,561 - com.base_class.Library -INFO - Starting with Browser Set Up
+2020-09-30 23:40:00,624 - com.base_class.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-09-30 23:40:03,885 - com.base_class.Library -INFO - Launched the GreatOutdoors Application
+2020-09-30 23:40:03,886 - com.base_class.Library -INFO - Browser Launched
+2020-09-30 23:40:04,397 - com.base_class.Library -INFO - Entered credentials
+2020-09-30 23:40:04,563 - com.base_class.Library -INFO - Clicked login button
+2020-09-30 23:40:05,046 - com.base_class.Library -INFO - Taken Screenshot and Title
+2020-09-30 23:40:05,138 - com.base_class.Library -INFO - Entered Delivery Time Reports page
+2020-09-30 23:40:05,259 - com.base_class.Library -INFO - Fetched Item Level Delivery Time Report
+2020-09-30 23:40:05,450 - com.base_class.Library -INFO - Fetched Category Level Delivery Time Report
+2020-09-30 23:40:05,563 - com.base_class.Library -INFO - Fetched Outlier-Category Level Delivery Time Report
+2020-09-30 23:40:05,960 - com.base_class.Library -INFO - Fetched Item level Delivery Time Report of product Id = 103
+2020-09-30 23:40:06,320 - com.base_class.Library -INFO - Fetched Category level Delivery Time Report of category Id = 2
+2020-09-30 23:40:06,512 - com.base_class.Library -INFO - Logged out successfully
+2020-09-30 23:40:07,394 - com.base_class.Library -INFO - Exiting the application and closing the browser
+2020-09-30 23:40:07,395 - com.base_class.Library -INFO -  Closed the Browser
+2020-10-01 00:11:27,563 - com.base_class.Library -INFO - Starting with Browser Set Up
+2020-10-01 00:11:32,666 - com.base_class.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-10-01 00:11:35,914 - com.base_class.Library -INFO - Launched the GreatOutdoors Application
+2020-10-01 00:11:35,915 - com.base_class.Library -INFO - Browser Launched
+2020-10-01 00:13:13,362 - com.base_class.Library -INFO - Starting with Browser Set Up
+2020-10-01 00:13:18,313 - com.base_class.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-10-01 00:13:21,931 - com.base_class.Library -INFO - Launched the GreatOutdoors Application
+2020-10-01 00:13:21,932 - com.base_class.Library -INFO - Browser Launched
+2020-10-01 00:16:59,135 - com.base_class.Library -INFO - Starting with Browser Set Up
+2020-10-01 00:17:04,815 - com.base_class.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-10-01 00:17:08,035 - com.base_class.Library -INFO - Launched the GreatOutdoors Application
+2020-10-01 00:17:08,035 - com.base_class.Library -INFO - Browser Launched
+2020-10-01 00:19:32,778 - com.base_class.Library -INFO - Starting with Browser Set Up
+2020-10-01 00:19:37,805 - com.base_class.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-10-01 00:19:41,054 - com.base_class.Library -INFO - Launched the GreatOutdoors Application
+2020-10-01 00:19:41,055 - com.base_class.Library -INFO - Browser Launched
+2020-10-01 00:24:50,936 - com.base_class.Library -INFO - Starting with Browser Set Up
+2020-10-01 00:24:55,913 - com.base_class.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-10-01 00:24:59,306 - com.base_class.Library -INFO - Launched the GreatOutdoors Application
+2020-10-01 00:24:59,307 - com.base_class.Library -INFO - Browser Launched
+2020-10-01 00:24:59,616 - com.base_class.Library -INFO - Fetched Login page
+2020-10-01 00:24:59,967 - com.base_class.Library -INFO - Entered credentials
+2020-10-01 00:25:00,215 - com.base_class.Library -INFO - Clicked login button
+2020-10-01 00:25:00,644 - com.base_class.Library -INFO - Taken Screenshot and Title
+2020-10-01 00:25:00,757 - com.base_class.Library -INFO - Entered Delivery Time Reports page
+2020-10-01 00:25:00,906 - com.base_class.Library -INFO - Fetched Item Level Delivery Time Report
+2020-10-01 00:25:01,167 - com.base_class.Library -INFO - Fetched Category Level Delivery Time Report
+2020-10-01 00:25:01,270 - com.base_class.Library -INFO - Fetched Outlier-Category Level Delivery Time Report
+2020-10-01 00:25:01,707 - com.base_class.Library -INFO - Fetched Item level Delivery Time Report of product Id = 103
+2020-10-01 00:25:02,100 - com.base_class.Library -INFO - Fetched Category level Delivery Time Report of category Id = 2
+2020-10-01 00:25:02,216 - com.base_class.Library -INFO - Logged out successfully
+2020-10-01 00:25:03,518 - com.base_class.Library -INFO - Exiting the application and closing the browser
+2020-10-01 00:25:03,519 - com.base_class.Library -INFO -  Closed the Browser
+2020-10-01 00:25:57,650 - com.base_class.Library -INFO - Starting with Browser Set Up
+2020-10-01 00:26:02,776 - com.base_class.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-10-01 00:26:05,978 - com.base_class.Library -INFO - Launched the GreatOutdoors Application
+2020-10-01 00:26:05,978 - com.base_class.Library -INFO - Browser Launched
+2020-10-01 00:26:06,278 - com.base_class.Library -INFO - Fetched Login page
+2020-10-01 00:26:06,645 - com.base_class.Library -INFO - Entered credentials
+2020-10-01 00:26:06,810 - com.base_class.Library -INFO - Clicked login button
+2020-10-01 00:26:07,204 - com.base_class.Library -INFO - Taken Screenshot and Title
+2020-10-01 00:26:07,300 - com.base_class.Library -INFO - Entered Delivery Time Reports page
+2020-10-01 00:26:07,432 - com.base_class.Library -INFO - Fetched Item Level Delivery Time Report
+2020-10-01 00:26:07,641 - com.base_class.Library -INFO - Fetched Category Level Delivery Time Report
+2020-10-01 00:26:07,823 - com.base_class.Library -INFO - Fetched Outlier-Category Level Delivery Time Report
+2020-10-01 00:26:08,193 - com.base_class.Library -INFO - Fetched Item level Delivery Time Report of product Id = 103
+2020-10-01 00:26:08,510 - com.base_class.Library -INFO - Fetched Category level Delivery Time Report of category Id = 2
+2020-10-01 00:26:08,629 - com.base_class.Library -INFO - Logged out successfully
+2020-10-01 00:26:09,372 - com.base_class.Library -INFO - Exiting the application and closing the browser
+2020-10-01 00:26:09,377 - com.base_class.Library -INFO -  Closed the Browser
+2020-10-01 00:31:44,960 - com.base_class.Library -INFO - Starting with Browser Set Up
+2020-10-01 00:31:50,004 - com.base_class.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-10-01 00:31:53,292 - com.base_class.Library -INFO - Launched the GreatOutdoors Application
+2020-10-01 00:31:53,293 - com.base_class.Library -INFO - Browser Launched
+2020-10-01 00:31:53,622 - com.base_class.Library -INFO - Fetched Login page
+2020-10-01 00:31:54,017 - com.base_class.Library -INFO - Entered credentials
+2020-10-01 00:31:54,205 - com.base_class.Library -INFO - Clicked login button
+2020-10-01 00:31:54,679 - com.base_class.Library -INFO - Taken Screenshot and Title
+2020-10-01 00:31:54,851 - com.base_class.Library -INFO - Entered Delivery Time Reports page
+2020-10-01 00:31:55,022 - com.base_class.Library -INFO - Fetched Item Level Delivery Time Report
+2020-10-01 00:31:55,228 - com.base_class.Library -INFO - Fetched Category Level Delivery Time Report
+2020-10-01 00:31:55,350 - com.base_class.Library -INFO - Fetched Outlier-Category Level Delivery Time Report
+2020-10-01 00:31:55,792 - com.base_class.Library -INFO - Fetched Item level Delivery Time Report of product Id = 103
+2020-10-01 00:31:56,148 - com.base_class.Library -INFO - Fetched Category level Delivery Time Report of category Id = 2
+2020-10-01 00:31:56,285 - com.base_class.Library -INFO - Logged out successfully
+2020-10-01 00:31:57,129 - com.base_class.Library -INFO - Exiting the application and closing the browser
+2020-10-01 00:31:57,133 - com.base_class.Library -INFO -  Closed the Browser
+2020-10-01 00:37:08,014 - com.base_class.Library -INFO - Starting with Browser Set Up
+2020-10-01 00:37:13,504 - com.base_class.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-10-01 00:37:19,976 - com.base_class.Library -INFO - Launched the GreatOutdoors Application
+2020-10-01 00:37:19,977 - com.base_class.Library -INFO - Browser Launched
+2020-10-01 00:37:20,792 - com.base_class.Library -INFO - Fetched Login page
+2020-10-01 00:37:21,145 - com.base_class.Library -INFO - Entered credentials
+2020-10-01 00:37:21,340 - com.base_class.Library -INFO - Clicked login button
+2020-10-01 00:37:21,753 - com.base_class.Library -INFO - Taken Screenshot and Title
+2020-10-01 00:37:21,849 - com.base_class.Library -INFO - Entered Delivery Time Reports page
+2020-10-01 00:37:21,991 - com.base_class.Library -INFO - Fetched Item Level Delivery Time Report
+2020-10-01 00:37:22,214 - com.base_class.Library -INFO - Fetched Category Level Delivery Time Report
+2020-10-01 00:37:22,321 - com.base_class.Library -INFO - Fetched Outlier-Category Level Delivery Time Report
+2020-10-01 00:37:22,712 - com.base_class.Library -INFO - Fetched Item level Delivery Time Report of product Id = 103
+2020-10-01 00:37:23,097 - com.base_class.Library -INFO - Fetched Category level Delivery Time Report of category Id = 2
+2020-10-01 00:37:23,201 - com.base_class.Library -INFO - Logged out successfully
+2020-10-01 00:37:23,961 - com.base_class.Library -INFO - Exiting the application and closing the browser
+2020-10-01 00:37:23,964 - com.base_class.Library -INFO -  Closed the Browser
+2020-10-01 00:38:58,741 - com.base_class.Library -INFO - Starting with Browser Set Up
+2020-10-01 00:39:03,530 - com.base_class.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-10-01 00:39:06,963 - com.base_class.Library -INFO - Launched the GreatOutdoors Application
+2020-10-01 00:39:06,964 - com.base_class.Library -INFO - Browser Launched
+2020-10-01 00:39:07,292 - com.base_class.Library -INFO - Fetched Login page
+2020-10-01 00:39:07,631 - com.base_class.Library -INFO - Entered credentials
+2020-10-01 00:39:07,811 - com.base_class.Library -INFO - Clicked login button
+2020-10-01 00:39:08,218 - com.base_class.Library -INFO - Taken Screenshot and Title
+2020-10-01 00:39:08,326 - com.base_class.Library -INFO - Entered Delivery Time Reports page
+2020-10-01 00:39:08,482 - com.base_class.Library -INFO - Fetched Item Level Delivery Time Report
+2020-10-01 00:39:08,709 - com.base_class.Library -INFO - Fetched Category Level Delivery Time Report
+2020-10-01 00:39:08,853 - com.base_class.Library -INFO - Fetched Outlier-Category Level Delivery Time Report
+2020-10-01 00:39:09,243 - com.base_class.Library -INFO - Fetched Item level Delivery Time Report of product Id = 103
+2020-10-01 00:39:09,589 - com.base_class.Library -INFO - Fetched Category level Delivery Time Report of category Id = 2
+2020-10-01 00:39:09,703 - com.base_class.Library -INFO - Logged out successfully
+2020-10-01 00:39:11,250 - com.base_class.Library -INFO - Exiting the application and closing the browser
+2020-10-01 00:39:11,255 - com.base_class.Library -INFO -  Closed the Browser
+2020-10-01 00:39:54,958 - com.base_class.Library -INFO - Starting with Browser Set Up
+2020-10-01 00:39:59,837 - com.base_class.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-10-01 00:40:03,018 - com.base_class.Library -INFO - Launched the GreatOutdoors Application
+2020-10-01 00:40:03,018 - com.base_class.Library -INFO - Browser Launched
+2020-10-01 00:40:03,355 - com.base_class.Library -INFO - Fetched Login page
+2020-10-01 00:40:03,703 - com.base_class.Library -INFO - Entered credentials
+2020-10-01 00:40:03,897 - com.base_class.Library -INFO - Clicked login button
+2020-10-01 00:40:04,314 - com.base_class.Library -INFO - Taken Screenshot and Title
+2020-10-01 00:40:04,412 - com.base_class.Library -INFO - Entered Delivery Time Reports page
+2020-10-01 00:40:04,530 - com.base_class.Library -INFO - Fetched Item Level Delivery Time Report
+2020-10-01 00:40:04,706 - com.base_class.Library -INFO - Fetched Category Level Delivery Time Report
+2020-10-01 00:40:04,816 - com.base_class.Library -INFO - Fetched Outlier-Category Level Delivery Time Report
+2020-10-01 00:40:05,195 - com.base_class.Library -INFO - Fetched Item level Delivery Time Report of product Id = 103
+2020-10-01 00:40:05,535 - com.base_class.Library -INFO - Fetched Category level Delivery Time Report of category Id = 2
+2020-10-01 00:40:05,631 - com.base_class.Library -INFO - Logged out successfully
+2020-10-01 00:40:06,389 - com.base_class.Library -INFO - Exiting the application and closing the browser
+2020-10-01 00:40:06,393 - com.base_class.Library -INFO -  Closed the Browser
+2020-10-01 00:40:32,498 - com.base_class.Library -INFO - Starting with Browser Set Up
+2020-10-01 00:40:37,584 - com.base_class.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-10-01 00:40:40,935 - com.base_class.Library -INFO - Launched the GreatOutdoors Application
+2020-10-01 00:40:40,936 - com.base_class.Library -INFO - Browser Launched
+2020-10-01 00:40:41,250 - com.base_class.Library -INFO - Fetched Login page
+2020-10-01 00:40:41,593 - com.base_class.Library -INFO - Entered credentials
+2020-10-01 00:40:41,784 - com.base_class.Library -INFO - Clicked login button
+2020-10-01 00:40:42,217 - com.base_class.Library -INFO - Taken Screenshot and Title
+2020-10-01 00:40:42,317 - com.base_class.Library -INFO - Entered Delivery Time Reports page
+2020-10-01 00:40:42,481 - com.base_class.Library -INFO - Fetched Item Level Delivery Time Report
+2020-10-01 00:40:42,699 - com.base_class.Library -INFO - Fetched Category Level Delivery Time Report
+2020-10-01 00:40:42,815 - com.base_class.Library -INFO - Fetched Outlier-Category Level Delivery Time Report
+2020-10-01 00:40:43,235 - com.base_class.Library -INFO - Fetched Item level Delivery Time Report of product Id = 103
+2020-10-01 00:40:43,579 - com.base_class.Library -INFO - Fetched Category level Delivery Time Report of category Id = 2
+2020-10-01 00:40:43,700 - com.base_class.Library -INFO - Logged out successfully
+2020-10-01 00:40:44,936 - com.base_class.Library -INFO - Exiting the application and closing the browser
+2020-10-01 00:40:44,938 - com.base_class.Library -INFO -  Closed the Browser
+2020-10-01 00:41:03,747 - com.base_class.Library -INFO - Starting with Browser Set Up
+2020-10-01 00:41:08,570 - com.base_class.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-10-01 00:41:11,730 - com.base_class.Library -INFO - Launched the GreatOutdoors Application
+2020-10-01 00:41:11,731 - com.base_class.Library -INFO - Browser Launched
+2020-10-01 00:41:12,014 - com.base_class.Library -INFO - Fetched Login page
+2020-10-01 00:41:12,337 - com.base_class.Library -INFO - Entered credentials
+2020-10-01 00:41:12,533 - com.base_class.Library -INFO - Clicked login button
+2020-10-01 00:41:12,960 - com.base_class.Library -INFO - Taken Screenshot and Title
+2020-10-01 00:41:13,052 - com.base_class.Library -INFO - Entered Delivery Time Reports page
+2020-10-01 00:41:13,181 - com.base_class.Library -INFO - Fetched Item Level Delivery Time Report
+2020-10-01 00:41:13,377 - com.base_class.Library -INFO - Fetched Category Level Delivery Time Report
+2020-10-01 00:41:13,473 - com.base_class.Library -INFO - Fetched Outlier-Category Level Delivery Time Report
+2020-10-01 00:41:13,817 - com.base_class.Library -INFO - Fetched Item level Delivery Time Report of product Id = 103
+2020-10-01 00:41:14,134 - com.base_class.Library -INFO - Fetched Category level Delivery Time Report of category Id = 2
+2020-10-01 00:41:14,233 - com.base_class.Library -INFO - Logged out successfully
+2020-10-01 00:41:14,983 - com.base_class.Library -INFO - Exiting the application and closing the browser
+2020-10-01 00:41:14,985 - com.base_class.Library -INFO -  Closed the Browser
+2020-10-01 00:41:50,549 - com.base_class.Library -INFO - Starting with Browser Set Up
+2020-10-01 00:41:55,784 - com.base_class.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-10-01 00:41:58,981 - com.base_class.Library -INFO - Launched the GreatOutdoors Application
+2020-10-01 00:41:58,981 - com.base_class.Library -INFO - Browser Launched
+2020-10-01 00:41:59,280 - com.base_class.Library -INFO - Fetched Login page
+2020-10-01 00:41:59,597 - com.base_class.Library -INFO - Entered credentials
+2020-10-01 00:41:59,769 - com.base_class.Library -INFO - Clicked login button
+2020-10-01 00:42:00,201 - com.base_class.Library -INFO - Taken Screenshot and Title
+2020-10-01 00:42:00,297 - com.base_class.Library -INFO - Entered Delivery Time Reports page
+2020-10-01 00:42:00,418 - com.base_class.Library -INFO - Fetched Item Level Delivery Time Report
+2020-10-01 00:42:00,647 - com.base_class.Library -INFO - Fetched Category Level Delivery Time Report
+2020-10-01 00:42:00,743 - com.base_class.Library -INFO - Fetched Outlier-Category Level Delivery Time Report
+2020-10-01 00:42:01,094 - com.base_class.Library -INFO - Fetched Item level Delivery Time Report of product Id = 103
+2020-10-01 00:42:01,405 - com.base_class.Library -INFO - Fetched Category level Delivery Time Report of category Id = 2
+2020-10-01 00:42:01,533 - com.base_class.Library -INFO - Logged out successfully
+2020-10-01 00:42:02,294 - com.base_class.Library -INFO - Exiting the application and closing the browser
+2020-10-01 00:42:02,298 - com.base_class.Library -INFO -  Closed the Browser
+2020-10-01 01:31:12,154 - com.base_class.Library -INFO - Starting with Browser Set Up
+2020-10-01 01:31:17,117 - com.base_class.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-10-01 01:31:20,509 - com.base_class.Library -INFO - Launched the GreatOutdoors Application
+2020-10-01 01:31:20,510 - com.base_class.Library -INFO - Browser Launched
+2020-10-01 01:41:03,263 - com.base_class.Library -INFO - Starting with Browser Set Up
+2020-10-01 01:41:08,098 - com.base_class.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-10-01 01:41:11,309 - com.base_class.Library -INFO - Launched the GreatOutdoors Application
+2020-10-01 01:41:11,310 - com.base_class.Library -INFO - Browser Launched
+2020-10-01 01:45:08,065 - com.base_class.Library -INFO - Starting with Browser Set Up
+2020-10-01 01:45:13,106 - com.base_class.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-10-01 01:45:16,400 - com.base_class.Library -INFO - Launched the GreatOutdoors Application
+2020-10-01 01:45:16,400 - com.base_class.Library -INFO - Browser Launched
+2020-10-01 01:45:16,775 - com.base_class.Library -INFO - Fetched Login page
+2020-10-01 01:45:17,102 - com.base_class.Library -INFO - Entered credentials
+2020-10-01 01:45:17,281 - com.base_class.Library -INFO - Clicked login button
+2020-10-01 01:45:17,706 - com.base_class.Library -INFO - Taken Screenshot and Title
+2020-10-01 01:45:17,816 - com.base_class.Library -INFO - Entered Delivery Time Reports page
+2020-10-01 01:45:17,968 - com.base_class.Library -INFO - Fetched Item Level Delivery Time Report
+2020-10-01 01:45:18,182 - com.base_class.Library -INFO - Fetched Category Level Delivery Time Report
+2020-10-01 01:45:18,317 - com.base_class.Library -INFO - Fetched Outlier-Category Level Delivery Time Report
+2020-10-01 01:45:18,722 - com.base_class.Library -INFO - Fetched Item level Delivery Time Report of product Id = 103
+2020-10-01 01:45:19,091 - com.base_class.Library -INFO - Fetched Category level Delivery Time Report of category Id = 2
+2020-10-01 01:45:19,202 - com.base_class.Library -INFO - Logged out successfully
+2020-10-01 01:45:20,415 - com.base_class.Library -INFO - Exiting the application and closing the browser
+2020-10-01 01:45:20,417 - com.base_class.Library -INFO -  Closed the Browser
+2020-10-01 01:45:20,439 - com.base_class.Library -INFO - Starting with Browser Set Up
+2020-10-01 01:45:23,754 - com.base_class.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-10-01 01:45:26,918 - com.base_class.Library -INFO - Launched the GreatOutdoors Application
+2020-10-01 01:45:26,918 - com.base_class.Library -INFO - Browser Launched
+2020-10-01 01:46:20,783 - com.base_class.Library -INFO - Starting with Browser Set Up
+2020-10-01 01:46:25,674 - com.base_class.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-10-01 01:46:28,919 - com.base_class.Library -INFO - Launched the GreatOutdoors Application
+2020-10-01 01:46:28,920 - com.base_class.Library -INFO - Browser Launched
+2020-10-01 01:46:29,260 - com.base_class.Library -INFO - Fetched Login page
+2020-10-01 01:46:29,576 - com.base_class.Library -INFO - Entered credentials
+2020-10-01 01:46:29,777 - com.base_class.Library -INFO - Clicked login button
+2020-10-01 01:46:30,172 - com.base_class.Library -INFO - Taken Screenshot and Title
+2020-10-01 01:46:30,270 - com.base_class.Library -INFO - Entered Delivery Time Reports page
+2020-10-01 01:46:30,404 - com.base_class.Library -INFO - Fetched Item Level Delivery Time Report
+2020-10-01 01:46:30,670 - com.base_class.Library -INFO - Fetched Category Level Delivery Time Report
+2020-10-01 01:46:30,807 - com.base_class.Library -INFO - Fetched Outlier-Category Level Delivery Time Report
+2020-10-01 01:46:31,219 - com.base_class.Library -INFO - Fetched Item level Delivery Time Report of product Id = 103
+2020-10-01 01:46:31,579 - com.base_class.Library -INFO - Fetched Category level Delivery Time Report of category Id = 2
+2020-10-01 01:46:31,682 - com.base_class.Library -INFO - Logged out successfully
+2020-10-01 01:46:32,449 - com.base_class.Library -INFO - Exiting the application and closing the browser
+2020-10-01 01:46:32,451 - com.base_class.Library -INFO -  Closed the Browser
+2020-10-01 01:46:32,472 - com.base_class.Library -INFO - Starting with Browser Set Up
+2020-10-01 01:46:36,094 - com.base_class.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-10-01 01:46:39,435 - com.base_class.Library -INFO - Launched the GreatOutdoors Application
+2020-10-01 01:46:39,436 - com.base_class.Library -INFO - Browser Launched
+2020-10-01 01:46:39,706 - com.base_class.Library -INFO - Fetched register user form
+2020-10-01 01:46:40,804 - com.base_class.Library -INFO - Entered credentials
+2020-10-01 01:47:34,164 - com.base_class.Library -INFO - Starting with Browser Set Up
+2020-10-01 01:47:39,057 - com.base_class.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-10-01 01:47:42,401 - com.base_class.Library -INFO - Launched the GreatOutdoors Application
+2020-10-01 01:47:42,402 - com.base_class.Library -INFO - Browser Launched
+2020-10-01 01:47:42,723 - com.base_class.Library -INFO - Fetched Login page
+2020-10-01 01:47:43,060 - com.base_class.Library -INFO - Entered credentials
+2020-10-01 01:47:43,266 - com.base_class.Library -INFO - Clicked login button
+2020-10-01 01:47:43,671 - com.base_class.Library -INFO - Taken Screenshot and Title
+2020-10-01 01:47:43,822 - com.base_class.Library -INFO - Entered Delivery Time Reports page
+2020-10-01 01:47:43,964 - com.base_class.Library -INFO - Fetched Item Level Delivery Time Report
+2020-10-01 01:47:44,270 - com.base_class.Library -INFO - Fetched Category Level Delivery Time Report
+2020-10-01 01:47:44,380 - com.base_class.Library -INFO - Fetched Outlier-Category Level Delivery Time Report
+2020-10-01 01:47:44,771 - com.base_class.Library -INFO - Fetched Item level Delivery Time Report of product Id = 103
+2020-10-01 01:47:45,233 - com.base_class.Library -INFO - Fetched Category level Delivery Time Report of category Id = 2
+2020-10-01 01:47:45,424 - com.base_class.Library -INFO - Logged out successfully
+2020-10-01 01:47:46,330 - com.base_class.Library -INFO - Exiting the application and closing the browser
+2020-10-01 01:47:46,331 - com.base_class.Library -INFO -  Closed the Browser
+2020-10-01 01:47:46,350 - com.base_class.Library -INFO - Starting with Browser Set Up
+2020-10-01 01:47:50,092 - com.base_class.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-10-01 01:47:53,712 - com.base_class.Library -INFO - Launched the GreatOutdoors Application
+2020-10-01 01:47:53,712 - com.base_class.Library -INFO - Browser Launched
+2020-10-01 01:47:53,946 - com.base_class.Library -INFO - Fetched register user form
+2020-10-01 01:47:54,902 - com.base_class.Library -INFO - Entered credentials
+2020-10-01 01:52:35,197 - com.base_class.Library -INFO - Starting with Browser Set Up
+2020-10-01 01:52:40,486 - com.base_class.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-10-01 01:52:43,768 - com.base_class.Library -INFO - Launched the GreatOutdoors Application
+2020-10-01 01:52:43,769 - com.base_class.Library -INFO - Browser Launched
+2020-10-01 01:52:44,074 - com.base_class.Library -INFO - Fetched Login page
+2020-10-01 01:52:44,403 - com.base_class.Library -INFO - Entered credentials
+2020-10-01 01:52:44,573 - com.base_class.Library -INFO - Clicked login button
+2020-10-01 01:52:44,994 - com.base_class.Library -INFO - Taken Screenshot and Title
+2020-10-01 01:52:45,083 - com.base_class.Library -INFO - Entered Delivery Time Reports page
+2020-10-01 01:52:45,215 - com.base_class.Library -INFO - Fetched Item Level Delivery Time Report
+2020-10-01 01:52:45,406 - com.base_class.Library -INFO - Fetched Category Level Delivery Time Report
+2020-10-01 01:52:45,523 - com.base_class.Library -INFO - Fetched Outlier-Category Level Delivery Time Report
+2020-10-01 01:52:45,866 - com.base_class.Library -INFO - Fetched Item level Delivery Time Report of product Id = 103
+2020-10-01 01:52:46,177 - com.base_class.Library -INFO - Fetched Category level Delivery Time Report of category Id = 2
+2020-10-01 01:52:46,282 - com.base_class.Library -INFO - Logged out successfully
+2020-10-01 01:52:47,052 - com.base_class.Library -INFO - Exiting the application and closing the browser
+2020-10-01 01:52:47,056 - com.base_class.Library -INFO -  Closed the Browser
+2020-10-01 01:52:47,105 - com.base_class.Library -INFO - Starting with Browser Set Up
+2020-10-01 01:52:50,614 - com.base_class.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-10-01 01:52:53,922 - com.base_class.Library -INFO - Launched the GreatOutdoors Application
+2020-10-01 01:52:53,923 - com.base_class.Library -INFO - Browser Launched
+2020-10-01 01:52:54,167 - com.base_class.Library -INFO - Fetched register user form
+2020-10-01 01:52:55,162 - com.base_class.Library -INFO - Entered credentials
+2020-10-01 01:52:55,265 - com.base_class.Library -INFO - signed in
+2020-10-01 01:56:22,367 - com.base_class.Library -INFO - Starting with Browser Set Up
+2020-10-01 01:56:27,185 - com.base_class.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-10-01 01:56:30,388 - com.base_class.Library -INFO - Launched the GreatOutdoors Application
+2020-10-01 01:56:30,388 - com.base_class.Library -INFO - Browser Launched
+2020-10-01 01:56:30,660 - com.base_class.Library -INFO - Fetched Login page
+2020-10-01 01:56:30,969 - com.base_class.Library -INFO - Entered credentials
+2020-10-01 01:56:31,127 - com.base_class.Library -INFO - Clicked login button
+2020-10-01 01:56:31,543 - com.base_class.Library -INFO - Taken Screenshot and Title
+2020-10-01 01:57:01,682 - com.base_class.Library -INFO - Starting with Browser Set Up
+2020-10-01 01:57:05,212 - com.base_class.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-10-01 01:57:08,664 - com.base_class.Library -INFO - Launched the GreatOutdoors Application
+2020-10-01 01:57:08,665 - com.base_class.Library -INFO - Browser Launched
+2020-10-01 01:57:08,940 - com.base_class.Library -INFO - Fetched register user form
+2020-10-01 01:57:09,991 - com.base_class.Library -INFO - Entered credentials
+2020-10-01 01:57:10,150 - com.base_class.Library -INFO - signed in
+2020-10-01 01:58:45,931 - com.base_class.Library -INFO - Starting with Browser Set Up
+2020-10-01 01:58:50,866 - com.base_class.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-10-01 01:58:54,918 - com.base_class.Library -INFO - Launched the GreatOutdoors Application
+2020-10-01 01:58:54,919 - com.base_class.Library -INFO - Browser Launched
+2020-10-01 01:58:55,387 - com.base_class.Library -INFO - Fetched Login page
+2020-10-01 01:58:55,725 - com.base_class.Library -INFO - Entered credentials
+2020-10-01 01:58:55,936 - com.base_class.Library -INFO - Clicked login button
+2020-10-01 01:58:56,391 - com.base_class.Library -INFO - Taken Screenshot and Title
+2020-10-01 01:58:56,497 - com.base_class.Library -INFO - Entered Delivery Time Reports page
+2020-10-01 01:58:56,619 - com.base_class.Library -INFO - Fetched Item Level Delivery Time Report
+2020-10-01 01:58:56,835 - com.base_class.Library -INFO - Fetched Category Level Delivery Time Report
+2020-10-01 01:58:57,020 - com.base_class.Library -INFO - Fetched Outlier-Category Level Delivery Time Report
+2020-10-01 01:58:57,672 - com.base_class.Library -INFO - Fetched Item level Delivery Time Report of product Id = 103
+2020-10-01 01:58:58,462 - com.base_class.Library -INFO - Fetched Category level Delivery Time Report of category Id = 2
+2020-10-01 01:58:58,682 - com.base_class.Library -INFO - Logged out successfully
+2020-10-01 01:58:59,562 - com.base_class.Library -INFO - Exiting the application and closing the browser
+2020-10-01 01:58:59,566 - com.base_class.Library -INFO -  Closed the Browser
+2020-10-01 01:58:59,614 - com.base_class.Library -INFO - Starting with Browser Set Up
+2020-10-01 01:59:03,188 - com.base_class.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-10-01 01:59:07,125 - com.base_class.Library -INFO - Launched the GreatOutdoors Application
+2020-10-01 01:59:07,126 - com.base_class.Library -INFO - Browser Launched
+2020-10-01 01:59:07,328 - com.base_class.Library -INFO - Fetched register user form
+2020-10-01 01:59:08,231 - com.base_class.Library -INFO - Entered credentials
+2020-10-01 01:59:08,323 - com.base_class.Library -INFO - signed in
+2020-10-01 02:00:25,848 - com.base_class.Library -INFO - Starting with Browser Set Up
+2020-10-01 02:00:30,777 - com.base_class.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-10-01 02:00:34,503 - com.base_class.Library -INFO - Launched the GreatOutdoors Application
+2020-10-01 02:00:34,504 - com.base_class.Library -INFO - Browser Launched
+2020-10-01 02:00:34,796 - com.base_class.Library -INFO - Fetched Login page
+2020-10-01 02:00:35,152 - com.base_class.Library -INFO - Entered credentials
+2020-10-01 02:00:35,381 - com.base_class.Library -INFO - Clicked login button
+2020-10-01 02:00:35,817 - com.base_class.Library -INFO - Taken Screenshot and Title
+2020-10-01 02:00:35,930 - com.base_class.Library -INFO - Entered Delivery Time Reports page
+2020-10-01 02:00:36,097 - com.base_class.Library -INFO - Fetched Item Level Delivery Time Report
+2020-10-01 02:00:36,354 - com.base_class.Library -INFO - Fetched Category Level Delivery Time Report
+2020-10-01 02:00:36,560 - com.base_class.Library -INFO - Fetched Outlier-Category Level Delivery Time Report
+2020-10-01 02:00:37,008 - com.base_class.Library -INFO - Fetched Item level Delivery Time Report of product Id = 103
+2020-10-01 02:00:37,344 - com.base_class.Library -INFO - Fetched Category level Delivery Time Report of category Id = 2
+2020-10-01 02:00:37,453 - com.base_class.Library -INFO - Logged out successfully
+2020-10-01 02:00:38,752 - com.base_class.Library -INFO - Exiting the application and closing the browser
+2020-10-01 02:00:38,754 - com.base_class.Library -INFO -  Closed the Browser
+2020-10-01 02:00:38,776 - com.base_class.Library -INFO - Starting with Browser Set Up
+2020-10-01 02:00:42,203 - com.base_class.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-10-01 02:00:45,393 - com.base_class.Library -INFO - Launched the GreatOutdoors Application
+2020-10-01 02:00:45,394 - com.base_class.Library -INFO - Browser Launched
+2020-10-01 02:00:45,614 - com.base_class.Library -INFO - Fetched register user form
+2020-10-01 02:00:46,492 - com.base_class.Library -INFO - Entered credentials
+2020-10-01 02:00:46,562 - com.base_class.Library -INFO - signed in
+2020-10-01 02:01:38,590 - com.base_class.Library -INFO - Starting with Browser Set Up
+2020-10-01 02:01:43,773 - com.base_class.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-10-01 02:01:47,080 - com.base_class.Library -INFO - Launched the GreatOutdoors Application
+2020-10-01 02:01:47,081 - com.base_class.Library -INFO - Browser Launched
+2020-10-01 02:01:47,436 - com.base_class.Library -INFO - Fetched Login page
+2020-10-01 02:01:47,738 - com.base_class.Library -INFO - Entered credentials
+2020-10-01 02:01:47,928 - com.base_class.Library -INFO - Clicked login button
+2020-10-01 02:01:48,396 - com.base_class.Library -INFO - Taken Screenshot and Title
+2020-10-01 02:01:48,522 - com.base_class.Library -INFO - Entered Delivery Time Reports page
+2020-10-01 02:01:48,694 - com.base_class.Library -INFO - Fetched Item Level Delivery Time Report
+2020-10-01 02:01:48,891 - com.base_class.Library -INFO - Fetched Category Level Delivery Time Report
+2020-10-01 02:01:49,064 - com.base_class.Library -INFO - Fetched Outlier-Category Level Delivery Time Report
+2020-10-01 02:01:49,533 - com.base_class.Library -INFO - Fetched Item level Delivery Time Report of product Id = 103
+2020-10-01 02:01:49,943 - com.base_class.Library -INFO - Fetched Category level Delivery Time Report of category Id = 2
+2020-10-01 02:01:50,089 - com.base_class.Library -INFO - Logged out successfully
+2020-10-01 02:01:50,997 - com.base_class.Library -INFO - Exiting the application and closing the browser
+2020-10-01 02:01:51,000 - com.base_class.Library -INFO -  Closed the Browser
+2020-10-01 02:01:51,042 - com.base_class.Library -INFO - Starting with Browser Set Up
+2020-10-01 02:01:54,377 - com.base_class.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-10-01 02:01:57,696 - com.base_class.Library -INFO - Launched the GreatOutdoors Application
+2020-10-01 02:01:57,696 - com.base_class.Library -INFO - Browser Launched
+2020-10-01 02:01:57,924 - com.base_class.Library -INFO - Fetched register user form
+2020-10-01 02:01:58,874 - com.base_class.Library -INFO - Entered credentials
+2020-10-01 02:01:58,978 - com.base_class.Library -INFO - signed in
+2020-10-01 02:09:02,400 - com.base_class.Library -INFO - Starting with Browser Set Up
+2020-10-01 02:09:07,285 - com.base_class.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-10-01 02:09:11,054 - com.base_class.Library -INFO - Launched the GreatOutdoors Application
+2020-10-01 02:09:11,055 - com.base_class.Library -INFO - Browser Launched
+2020-10-01 02:09:11,386 - com.base_class.Library -INFO - Fetched Login page
+2020-10-01 02:09:11,707 - com.base_class.Library -INFO - Entered credentials
+2020-10-01 02:09:11,881 - com.base_class.Library -INFO - Clicked login button
+2020-10-01 02:09:12,321 - com.base_class.Library -INFO - Taken Screenshot and Title
+2020-10-01 02:09:12,417 - com.base_class.Library -INFO - Entered Delivery Time Reports page
+2020-10-01 02:09:12,538 - com.base_class.Library -INFO - Fetched Item Level Delivery Time Report
+2020-10-01 02:09:12,771 - com.base_class.Library -INFO - Fetched Category Level Delivery Time Report
+2020-10-01 02:09:12,928 - com.base_class.Library -INFO - Fetched Outlier-Category Level Delivery Time Report
+2020-10-01 02:09:13,340 - com.base_class.Library -INFO - Fetched Item level Delivery Time Report of product Id = 103
+2020-10-01 02:09:13,652 - com.base_class.Library -INFO - Fetched Category level Delivery Time Report of category Id = 2
+2020-10-01 02:09:13,771 - com.base_class.Library -INFO - Logged out successfully
+2020-10-01 02:09:14,546 - com.base_class.Library -INFO - Exiting the application and closing the browser
+2020-10-01 02:09:14,548 - com.base_class.Library -INFO -  Closed the Browser
+2020-10-01 02:09:14,569 - com.base_class.Library -INFO - Starting with Browser Set Up
+2020-10-01 02:09:18,024 - com.base_class.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-10-01 02:09:21,741 - com.base_class.Library -INFO - Launched the GreatOutdoors Application
+2020-10-01 02:09:21,742 - com.base_class.Library -INFO - Browser Launched
+2020-10-01 02:09:21,982 - com.base_class.Library -INFO - Fetched register user form
+2020-10-01 02:09:22,832 - com.base_class.Library -INFO - Entered credentials
+2020-10-01 02:09:22,922 - com.base_class.Library -INFO - signed in
+2020-10-01 02:09:22,932 - com.base_class.Library -INFO - Accepted alert
+2020-10-01 02:10:31,007 - com.base_class.Library -INFO - Starting with Browser Set Up
+2020-10-01 02:10:36,100 - com.base_class.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-10-01 02:10:39,990 - com.base_class.Library -INFO - Launched the GreatOutdoors Application
+2020-10-01 02:10:39,991 - com.base_class.Library -INFO - Browser Launched
+2020-10-01 02:10:40,475 - com.base_class.Library -INFO - Fetched Login page
+2020-10-01 02:10:40,771 - com.base_class.Library -INFO - Entered credentials
+2020-10-01 02:10:40,942 - com.base_class.Library -INFO - Clicked login button
+2020-10-01 02:10:41,416 - com.base_class.Library -INFO - Taken Screenshot and Title
+2020-10-01 02:10:41,513 - com.base_class.Library -INFO - Entered Delivery Time Reports page
+2020-10-01 02:10:41,641 - com.base_class.Library -INFO - Fetched Item Level Delivery Time Report
+2020-10-01 02:10:41,887 - com.base_class.Library -INFO - Fetched Category Level Delivery Time Report
+2020-10-01 02:10:42,019 - com.base_class.Library -INFO - Fetched Outlier-Category Level Delivery Time Report
+2020-10-01 02:10:42,543 - com.base_class.Library -INFO - Fetched Item level Delivery Time Report of product Id = 103
+2020-10-01 02:10:42,981 - com.base_class.Library -INFO - Fetched Category level Delivery Time Report of category Id = 2
+2020-10-01 02:10:43,111 - com.base_class.Library -INFO - Logged out successfully
+2020-10-01 02:10:44,048 - com.base_class.Library -INFO - Exiting the application and closing the browser
+2020-10-01 02:10:44,051 - com.base_class.Library -INFO -  Closed the Browser
+2020-10-01 02:10:44,090 - com.base_class.Library -INFO - Starting with Browser Set Up
+2020-10-01 02:10:47,512 - com.base_class.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-10-01 02:10:51,143 - com.base_class.Library -INFO - Launched the GreatOutdoors Application
+2020-10-01 02:10:51,144 - com.base_class.Library -INFO - Browser Launched
+2020-10-01 02:10:51,439 - com.base_class.Library -INFO - Fetched register user form
+2020-10-01 02:10:52,312 - com.base_class.Library -INFO - Entered credentials
+2020-10-01 02:10:52,396 - com.base_class.Library -INFO - signed in
+2020-10-01 02:10:52,406 - com.base_class.Library -INFO - Accepted alert
+2020-10-01 02:13:55,969 - com.base_class.Library -INFO - Starting with Browser Set Up
+2020-10-01 02:14:01,155 - com.base_class.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-10-01 02:14:04,741 - com.base_class.Library -INFO - Launched the GreatOutdoors Application
+2020-10-01 02:14:04,742 - com.base_class.Library -INFO - Browser Launched
+2020-10-01 02:14:05,085 - com.base_class.Library -INFO - Fetched Login page
+2020-10-01 02:14:05,396 - com.base_class.Library -INFO - Entered credentials
+2020-10-01 02:14:05,631 - com.base_class.Library -INFO - Clicked login button
+2020-10-01 02:14:06,062 - com.base_class.Library -INFO - Taken Screenshot and Title
+2020-10-01 02:14:06,154 - com.base_class.Library -INFO - Entered Delivery Time Reports page
+2020-10-01 02:14:06,287 - com.base_class.Library -INFO - Fetched Item Level Delivery Time Report
+2020-10-01 02:14:06,543 - com.base_class.Library -INFO - Fetched Category Level Delivery Time Report
+2020-10-01 02:14:06,662 - com.base_class.Library -INFO - Fetched Outlier-Category Level Delivery Time Report
+2020-10-01 02:14:07,018 - com.base_class.Library -INFO - Fetched Item level Delivery Time Report of product Id = 103
+2020-10-01 02:14:07,369 - com.base_class.Library -INFO - Fetched Category level Delivery Time Report of category Id = 2
+2020-10-01 02:14:07,467 - com.base_class.Library -INFO - Logged out successfully
+2020-10-01 02:14:08,247 - com.base_class.Library -INFO - Exiting the application and closing the browser
+2020-10-01 02:14:08,250 - com.base_class.Library -INFO -  Closed the Browser
+2020-10-01 02:14:08,278 - com.base_class.Library -INFO - Starting with Browser Set Up
+2020-10-01 02:14:11,696 - com.base_class.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-10-01 02:14:14,994 - com.base_class.Library -INFO - Launched the GreatOutdoors Application
+2020-10-01 02:14:14,994 - com.base_class.Library -INFO - Browser Launched
+2020-10-01 02:14:15,207 - com.base_class.Library -INFO - Fetched register user form
+2020-10-01 02:14:16,092 - com.base_class.Library -INFO - Entered credentials
+2020-10-01 02:14:19,182 - com.base_class.Library -INFO - signed in
+2020-10-01 02:14:19,190 - com.base_class.Library -INFO - Accepted alert
+2020-10-01 02:19:33,025 - com.base_class.Library -INFO - Starting with Browser Set Up
+2020-10-01 02:19:38,544 - com.base_class.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-10-01 02:19:41,829 - com.base_class.Library -INFO - Launched the GreatOutdoors Application
+2020-10-01 02:19:41,830 - com.base_class.Library -INFO - Browser Launched
+2020-10-01 02:19:42,124 - com.base_class.Library -INFO - Fetched Login page
+2020-10-01 02:19:42,486 - com.base_class.Library -INFO - Entered credentials
+2020-10-01 02:19:42,688 - com.base_class.Library -INFO - Clicked login button
+2020-10-01 02:19:43,110 - com.base_class.Library -INFO - Taken Screenshot and Title
+2020-10-01 02:19:43,222 - com.base_class.Library -INFO - Entered Delivery Time Reports page
+2020-10-01 02:19:43,395 - com.base_class.Library -INFO - Fetched Item Level Delivery Time Report
+2020-10-01 02:19:43,636 - com.base_class.Library -INFO - Fetched Category Level Delivery Time Report
+2020-10-01 02:19:43,744 - com.base_class.Library -INFO - Fetched Outlier-Category Level Delivery Time Report
+2020-10-01 02:19:44,153 - com.base_class.Library -INFO - Fetched Item level Delivery Time Report of product Id = 103
+2020-10-01 02:19:44,511 - com.base_class.Library -INFO - Fetched Category level Delivery Time Report of category Id = 2
+2020-10-01 02:19:44,639 - com.base_class.Library -INFO - Logged out successfully
+2020-10-01 02:19:46,009 - com.base_class.Library -INFO - Exiting the application and closing the browser
+2020-10-01 02:19:46,011 - com.base_class.Library -INFO -  Closed the Browser
+2020-10-01 02:19:46,042 - com.base_class.Library -INFO - Starting with Browser Set Up
+2020-10-01 02:19:49,520 - com.base_class.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-10-01 02:19:52,933 - com.base_class.Library -INFO - Launched the GreatOutdoors Application
+2020-10-01 02:19:52,933 - com.base_class.Library -INFO - Browser Launched
+2020-10-01 02:19:53,127 - com.base_class.Library -INFO - Fetched register user form
+2020-10-01 02:19:54,062 - com.base_class.Library -INFO - Entered credentials
+2020-10-01 02:19:57,171 - com.base_class.Library -INFO - signed in
+2020-10-01 02:19:57,224 - com.base_class.Library -INFO - Accepted alert
+2020-10-01 02:19:57,553 - com.base_class.Library -INFO - Entered registered credentials
+2020-10-01 02:23:49,280 - com.base_class.Library -INFO - Starting with Browser Set Up
+2020-10-01 02:23:54,528 - com.base_class.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-10-01 02:23:58,771 - com.base_class.Library -INFO - Launched the GreatOutdoors Application
+2020-10-01 02:23:58,772 - com.base_class.Library -INFO - Browser Launched
+2020-10-01 02:23:59,292 - com.base_class.Library -INFO - Fetched Login page
+2020-10-01 02:23:59,611 - com.base_class.Library -INFO - Entered credentials
+2020-10-01 02:23:59,796 - com.base_class.Library -INFO - Clicked login button
+2020-10-01 02:24:00,217 - com.base_class.Library -INFO - Taken Screenshot and Title
+2020-10-01 02:24:00,326 - com.base_class.Library -INFO - Entered Delivery Time Reports page
+2020-10-01 02:24:00,492 - com.base_class.Library -INFO - Fetched Item Level Delivery Time Report
+2020-10-01 02:24:00,774 - com.base_class.Library -INFO - Fetched Category Level Delivery Time Report
+2020-10-01 02:24:00,889 - com.base_class.Library -INFO - Fetched Outlier-Category Level Delivery Time Report
+2020-10-01 02:24:01,331 - com.base_class.Library -INFO - Fetched Item level Delivery Time Report of product Id = 103
+2020-10-01 02:24:01,680 - com.base_class.Library -INFO - Fetched Category level Delivery Time Report of category Id = 2
+2020-10-01 02:24:01,834 - com.base_class.Library -INFO - Logged out successfully
+2020-10-01 02:24:02,685 - com.base_class.Library -INFO - Exiting the application and closing the browser
+2020-10-01 02:24:02,688 - com.base_class.Library -INFO -  Closed the Browser
+2020-10-01 02:24:02,733 - com.base_class.Library -INFO - Starting with Browser Set Up
+2020-10-01 02:24:06,351 - com.base_class.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-10-01 02:24:10,128 - com.base_class.Library -INFO - Launched the GreatOutdoors Application
+2020-10-01 02:24:10,129 - com.base_class.Library -INFO - Browser Launched
+2020-10-01 02:24:10,359 - com.base_class.Library -INFO - Fetched register user form
+2020-10-01 02:24:11,256 - com.base_class.Library -INFO - Entered credentials
+2020-10-01 02:24:14,349 - com.base_class.Library -INFO - signed in
+2020-10-01 02:24:14,397 - com.base_class.Library -INFO - Accepted alert
+2020-10-01 02:24:14,725 - com.base_class.Library -INFO - Entered registered credentials
+2020-10-01 02:25:49,786 - com.base_class.Library -INFO - Starting with Browser Set Up
+2020-10-01 02:25:54,736 - com.base_class.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-10-01 02:25:58,408 - com.base_class.Library -INFO - Launched the GreatOutdoors Application
+2020-10-01 02:25:58,409 - com.base_class.Library -INFO - Browser Launched
+2020-10-01 02:25:59,240 - com.base_class.Library -INFO - Fetched Login page
+2020-10-01 02:25:59,559 - com.base_class.Library -INFO - Entered credentials
+2020-10-01 02:25:59,749 - com.base_class.Library -INFO - Clicked login button
+2020-10-01 02:26:00,184 - com.base_class.Library -INFO - Taken Screenshot and Title
+2020-10-01 02:26:00,281 - com.base_class.Library -INFO - Entered Delivery Time Reports page
+2020-10-01 02:26:00,406 - com.base_class.Library -INFO - Fetched Item Level Delivery Time Report
+2020-10-01 02:26:00,600 - com.base_class.Library -INFO - Fetched Category Level Delivery Time Report
+2020-10-01 02:26:00,734 - com.base_class.Library -INFO - Fetched Outlier-Category Level Delivery Time Report
+2020-10-01 02:26:01,095 - com.base_class.Library -INFO - Fetched Item level Delivery Time Report of product Id = 103
+2020-10-01 02:26:01,413 - com.base_class.Library -INFO - Fetched Category level Delivery Time Report of category Id = 2
+2020-10-01 02:26:01,515 - com.base_class.Library -INFO - Logged out successfully
+2020-10-01 02:26:02,273 - com.base_class.Library -INFO - Exiting the application and closing the browser
+2020-10-01 02:26:02,279 - com.base_class.Library -INFO -  Closed the Browser
+2020-10-01 02:26:02,307 - com.base_class.Library -INFO - Starting with Browser Set Up
+2020-10-01 02:26:05,787 - com.base_class.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-10-01 02:26:09,891 - com.base_class.Library -INFO - Launched the GreatOutdoors Application
+2020-10-01 02:26:09,892 - com.base_class.Library -INFO - Browser Launched
+2020-10-01 02:26:10,130 - com.base_class.Library -INFO - Fetched register user form
+2020-10-01 02:26:11,108 - com.base_class.Library -INFO - Entered credentials
+2020-10-01 02:26:14,218 - com.base_class.Library -INFO - signed in
+2020-10-01 02:26:14,276 - com.base_class.Library -INFO - Accepted alert
+2020-10-01 02:26:14,579 - com.base_class.Library -INFO - Entered registered credentials
+2020-10-01 02:29:16,302 - com.base_class.Library -INFO - Starting with Browser Set Up
+2020-10-01 02:29:21,419 - com.base_class.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-10-01 02:29:25,751 - com.base_class.Library -INFO - Launched the GreatOutdoors Application
+2020-10-01 02:29:25,752 - com.base_class.Library -INFO - Browser Launched
+2020-10-01 02:29:26,323 - com.base_class.Library -INFO - Fetched register user form
+2020-10-01 02:29:27,460 - com.base_class.Library -INFO - Entered credentials
+2020-10-01 02:29:30,576 - com.base_class.Library -INFO - signed in
+2020-10-01 02:29:30,598 - com.base_class.Library -INFO - Accepted alert
+2020-10-01 02:29:30,834 - com.base_class.Library -INFO - Entered registered credentials
+2020-10-01 02:31:54,821 - com.base_class.Library -INFO - Starting with Browser Set Up
+2020-10-01 02:31:59,894 - com.base_class.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-10-01 02:32:03,864 - com.base_class.Library -INFO - Launched the GreatOutdoors Application
+2020-10-01 02:32:03,864 - com.base_class.Library -INFO - Browser Launched
+2020-10-01 02:32:04,198 - com.base_class.Library -INFO - Fetched Login page
+2020-10-01 02:32:04,581 - com.base_class.Library -INFO - Entered credentials
+2020-10-01 02:32:04,788 - com.base_class.Library -INFO - Clicked login button
+2020-10-01 02:32:05,196 - com.base_class.Library -INFO - Taken Screenshot and Title
+2020-10-01 02:32:05,309 - com.base_class.Library -INFO - Entered Delivery Time Reports page
+2020-10-01 02:32:05,490 - com.base_class.Library -INFO - Fetched Item Level Delivery Time Report
+2020-10-01 02:32:05,736 - com.base_class.Library -INFO - Fetched Category Level Delivery Time Report
+2020-10-01 02:32:05,861 - com.base_class.Library -INFO - Fetched Outlier-Category Level Delivery Time Report
+2020-10-01 02:32:06,278 - com.base_class.Library -INFO - Fetched Item level Delivery Time Report of product Id = 103
+2020-10-01 02:32:06,611 - com.base_class.Library -INFO - Fetched Category level Delivery Time Report of category Id = 2
+2020-10-01 02:32:06,753 - com.base_class.Library -INFO - Logged out successfully
+2020-10-01 02:32:08,014 - com.base_class.Library -INFO - Exiting the application and closing the browser
+2020-10-01 02:32:08,016 - com.base_class.Library -INFO -  Closed the Browser
+2020-10-01 02:32:08,038 - com.base_class.Library -INFO - Starting with Browser Set Up
+2020-10-01 02:32:11,488 - com.base_class.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-10-01 02:32:14,639 - com.base_class.Library -INFO - Launched the GreatOutdoors Application
+2020-10-01 02:32:14,639 - com.base_class.Library -INFO - Browser Launched
+2020-10-01 02:32:14,873 - com.base_class.Library -INFO - Fetched register user form
+2020-10-01 02:32:15,786 - com.base_class.Library -INFO - Entered credentials
+2020-10-01 02:32:18,876 - com.base_class.Library -INFO - signed in
+2020-10-01 02:32:18,941 - com.base_class.Library -INFO - Accepted alert
+2020-10-01 02:32:19,221 - com.base_class.Library -INFO - Entered registered credentials
+2020-10-01 02:32:19,365 - com.base_class.Library -INFO - Clicked login button
+2020-10-01 02:32:19,543 - com.base_class.Library -INFO - Logged out successfully
+2020-10-01 02:32:20,469 - com.base_class.Library -INFO - Exiting the application and closing the browser
+2020-10-01 02:32:20,470 - com.base_class.Library -INFO -  Closed the Browser

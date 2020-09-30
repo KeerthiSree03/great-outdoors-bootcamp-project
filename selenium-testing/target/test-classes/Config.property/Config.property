@@ -1,0 +1,18 @@
+browser = chrome
+url = http://localhost:4200
+
+#login credentials
+username = Keerthi123
+password = CapgKeerthi@34
+
+#reports credentials
+productId = 103
+categoryId = 2
+
+#register credentials
+userType = Sales Representative
+userId = Mahitha123
+userPassword = CapgMahitha@34
+userReEnterPassword = CapgMahitha@34
+userPhone = 7844567890
+userEmail = mahitha@gmail.com

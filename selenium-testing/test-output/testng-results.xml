@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15039" started-at="2020-09-30T16:12:25Z" finished-at="2020-09-30T16:12:40Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15039" started-at="2020-09-30T16:12:25Z" finished-at="2020-09-30T16:12:40Z">
+      <class name="com.testcases.GreatOutdoors_Testcases">
+        <test-method status="PASS" signature="launchApp()[pri:0, instance:com.testcases.GreatOutdoors_Testcases@405325cf]" name="launchApp" is-config="true" duration-ms="12165" started-at="2020-09-30T16:12:25Z" finished-at="2020-09-30T16:12:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method status="PASS" signature="login()[pri:0, instance:com.testcases.GreatOutdoors_Testcases@405325cf]" name="login" duration-ms="1037" started-at="2020-09-30T16:12:37Z" finished-at="2020-09-30T16:12:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.testcases.GreatOutdoors_Testcases@405325cf]" name="close" is-config="true" duration-ms="1388" started-at="2020-09-30T16:12:39Z" finished-at="2020-09-30T16:12:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.testcases.GreatOutdoors_Testcases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

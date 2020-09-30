@@ -1,0 +1,310 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2020-09-30T21:08:06.463Z",
+        "line": 3,
+        "name": "To Test Login and View Delivery Time Reports Function of GreatOutdoors",
+        "description": "",
+        "id": "to-test-greatoutdoors-application;to-test-login-and-view-delivery-time-reports-function-of-greatoutdoors",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 8368000000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "To launch the browser and navigate to url",
+            "match": {
+              "location": "com.step_definition.GreatOutdoors_LoginAndViewReportsSteps.to_launch_the_browser_and_navigate_to_url()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 331000000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "To open login Functionality of GreatOutdoors",
+            "match": {
+              "location": "com.step_definition.GreatOutdoors_LoginAndViewReportsSteps.to_open_login_Functionality_of_GreatOutdoors()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 327000000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "To Enter username and password",
+            "match": {
+              "location": "com.step_definition.GreatOutdoors_LoginAndViewReportsSteps.to_Enter_username_and_password()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 170000000,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "To click login button",
+            "match": {
+              "location": "com.step_definition.GreatOutdoors_LoginAndViewReportsSteps.to_click_login_button()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 467000000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "To take screenshot and the title",
+            "match": {
+              "location": "com.step_definition.GreatOutdoors_LoginAndViewReportsSteps.to_take_screenshot_and_the_title()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 98000000,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "To go to delivery Time Reports",
+            "match": {
+              "location": "com.step_definition.GreatOutdoors_LoginAndViewReportsSteps.to_go_to_delivery_Time_Reports()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 144000000,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "To view Item Level Delivery Time Report",
+            "match": {
+              "location": "com.step_definition.GreatOutdoors_LoginAndViewReportsSteps.to_view_Item_Level_Delivery_Time_Report()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 269000000,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "To view Category Level Delivery Time Report",
+            "match": {
+              "location": "com.step_definition.GreatOutdoors_LoginAndViewReportsSteps.to_view_Category_Level_Delivery_Time_Report()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 139000000,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "To view Outlier-Category Level Delivery Time Report",
+            "match": {
+              "location": "com.step_definition.GreatOutdoors_LoginAndViewReportsSteps.to_view_Outlier_Category_Level_Delivery_Time_Report()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 405000000,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "To view Item Wise Delivery Time Report",
+            "match": {
+              "location": "com.step_definition.GreatOutdoors_LoginAndViewReportsSteps.to_view_Item_Wise_Delivery_Time_Report()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 383000000,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "To view Category wise Delivery Time Report",
+            "match": {
+              "location": "com.step_definition.GreatOutdoors_LoginAndViewReportsSteps.to_view_Category_wise_Delivery_Time_Report()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 100000000,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "To Logout from the application",
+            "match": {
+              "location": "com.step_definition.GreatOutdoors_LoginAndViewReportsSteps.to_Logout_from_the_application()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 788000000,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "To close the browser",
+            "match": {
+              "location": "com.step_definition.GreatOutdoors_LoginAndViewReportsSteps.to_close_the_browser()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "To Test GreatOutdoors Application",
+    "description": "",
+    "id": "to-test-greatoutdoors-application",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/TestCase1.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2020-09-30T21:08:18.601Z",
+        "line": 3,
+        "name": "To Test Register Function of GreatOutdoors",
+        "description": "",
+        "id": "to-test-greatoutdoors-application;to-test-register-function-of-greatoutdoors",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 6646000000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "To launch the browser and navigate to url",
+            "match": {
+              "location": "com.step_definition.GreatOutdoors_LoginAndViewReportsSteps.to_launch_the_browser_and_navigate_to_url()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 211000000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "To open register Functionality of GreatOutdoors",
+            "match": {
+              "location": "com.step_definition.GreatOutdoors_RegisterUserSteps.to_open_register_Functionality_of_GreatOutdoors()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 889000000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "To Fill all the credentials",
+            "match": {
+              "location": "com.step_definition.GreatOutdoors_RegisterUserSteps.to_Fill_all_the_credentials()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 3087000000,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "To click sign-in button",
+            "match": {
+              "location": "com.step_definition.GreatOutdoors_RegisterUserSteps.to_click_sign_in_button()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 73000000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "To accept alert",
+            "match": {
+              "location": "com.step_definition.GreatOutdoors_RegisterUserSteps.to_accept_alert()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 298000000,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "To Enter userId and password",
+            "match": {
+              "location": "com.step_definition.GreatOutdoors_RegisterUserSteps.to_Enter_userId_and_password()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 169000000,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "To click login",
+            "match": {
+              "location": "com.step_definition.GreatOutdoors_RegisterUserSteps.to_click_login()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 136000000,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "To click Logout",
+            "match": {
+              "location": "com.step_definition.GreatOutdoors_RegisterUserSteps.to_click_Logout()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1458000000,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "To close browser",
+            "match": {
+              "location": "com.step_definition.GreatOutdoors_RegisterUserSteps.to_close_browser()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "To Test GreatOutdoors Application",
+    "description": "",
+    "id": "to-test-greatoutdoors-application",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/TestCase2.feature",
+    "tags": []
+  }
+]
